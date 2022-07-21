@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/cameronmoreira.github.io/static/css/main.031f61ef.css",
+    "main.js": "/cameronmoreira.github.io/static/js/main.bb3234b8.js",
+    "static/media/taxi-clustering.png": "/cameronmoreira.github.io/static/media/taxi-clustering.a16e18765c3341ec74d9.png",
+    "static/media/profilepic.jpg": "/cameronmoreira.github.io/static/media/profilepic.ad3b782376e0500ea020.jpg",
+    "static/media/barbershop-page.JPG": "/cameronmoreira.github.io/static/media/barbershop-page.e0b9ceb7638688c9bab0.JPG",
+    "static/media/databasecapture.JPG": "/cameronmoreira.github.io/static/media/databasecapture.e427a5cae6be2322f91e.JPG",
+    "static/media/c++-logo.png": "/cameronmoreira.github.io/static/media/c++-logo.b16266e0c47f8bfa2e3e.png",
+    "static/media/contact-me-img.png": "/cameronmoreira.github.io/static/media/contact-me-img.ec3a0fd2acf261996ec7.png",
+    "static/media/androidstudio-logo.png": "/cameronmoreira.github.io/static/media/androidstudio-logo.811b358704edf358156a.png",
+    "static/media/coursemanagerapp.JPG": "/cameronmoreira.github.io/static/media/coursemanagerapp.e6c2932e332eb932fc35.JPG",
+    "static/media/css-logo.png": "/cameronmoreira.github.io/static/media/css-logo.5227db3affe64f13f0fa.png",
+    "static/media/Cameron_Moreira_Resume_27-06-2022-20-09-06.pdf": "/cameronmoreira.github.io/static/media/Cameron_Moreira_Resume_27-06-2022-20-09-06.165ad3608d6b56d7f8a8.pdf",
+    "static/media/prolog-logo.png": "/cameronmoreira.github.io/static/media/prolog-logo.7bd06cbfe05bc7a042d7.png",
+    "static/media/uottawa-logo.png": "/cameronmoreira.github.io/static/media/uottawa-logo.56c7ff0d5a90ca3777ff.png",
+    "static/media/postgresql-logo.png": "/cameronmoreira.github.io/static/media/postgresql-logo.6c5d698f195dac2fe5af.png",
+    "static/media/react-logo.png": "/cameronmoreira.github.io/static/media/react-logo.20ec11c4799854e3803d.png",
+    "static/media/golang-logo.png": "/cameronmoreira.github.io/static/media/golang-logo.6a3cd1884425f3b03c7d.png",
+    "static/media/swift-logo.png": "/cameronmoreira.github.io/static/media/swift-logo.efa547d95655c90f5181.png",
+    "static/media/cameron-logo.png": "/cameronmoreira.github.io/static/media/cameron-logo.8f0d675f3c9ff9e6fe52.png",
+    "static/media/html-logo.png": "/cameronmoreira.github.io/static/media/html-logo.ff3cf75e3b7cbb4ea77c.png",
+    "static/media/java-logo.png": "/cameronmoreira.github.io/static/media/java-logo.6c64373d3b7415758078.png",
+    "static/media/firebase-logo.png": "/cameronmoreira.github.io/static/media/firebase-logo.a4156cb67d6d0676cffc.png",
+    "index.html": "/cameronmoreira.github.io/index.html",
+    "main.031f61ef.css.map": "/cameronmoreira.github.io/static/css/main.031f61ef.css.map",
+    "main.bb3234b8.js.map": "/cameronmoreira.github.io/static/js/main.bb3234b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.031f61ef.css",
+    "static/js/main.bb3234b8.js"
+  ]
+}

@@ -1,0 +1,139 @@
+.htmlLogo{
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+}
+#group-item {
+    margin-right: 100px;
+    margin-bottom: 10px;
+    background-color: whitesmoke;
+   
+    border-radius: 5px;
+    text-align: center;
+}
+
+.some-info-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #efebce
+}
+
+.about-me-title {
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #efebce;
+}
+
+#skills {
+    background-color: #efebce;
+    margin-bottom: 50px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+
+
+}
+
+
+#list-group {
+
+    margin-left: 300px;
+    margin-right: auto;
+
+    margin-top: 10px;
+}
+#group-item:hover {
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+.cssLogo{
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+}
+
+.javascriptlogo{
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+}
+
+.reactLogo{
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+}
+
+.firebaseLogo{
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+}
+
+.herokuLogo{
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+}
+
+.postgresqlLogo{
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+}
+
+.sqlLogo{
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+}
+
+.pythonLogo{
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+}
+
+.javaLogo{
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+}
+
+.cplusplusLogo{
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+}
+
+.golangLogo{
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+}
+
+.swiftLogo{
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+}
+
+.prologLogo{
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+}
+
+.androidStudioLogo{
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+}
+
+.githubLogo{
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+}

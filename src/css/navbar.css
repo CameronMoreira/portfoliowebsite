@@ -1,0 +1,57 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+}
+/* 
+#icon {
+    margin-top: 5px;
+    margin-right: 10px;
+} */
+
+#nav-bar-col{
+    background-color: #8d0801
+}
+
+.icon-name {
+    text-decoration: none;
+}
+
+#cameron-logo {
+    position: relative;
+    right: 30px;
+    top: 10px;
+
+    width: 120px;
+    height: 80px;
+}
+
+.nav-link {
+
+    width: fit-content;
+}
+#nav-bar-link {
+    text-decoration: none;
+    /* margin-left: 60px; */
+}
+
+.navbar-title {
+    border: 1px solid red;
+    text-align: right;
+   width: auto;
+   margin-left: auto;
+   margin-right: 10px;
+   margin-top: 10px;
+}
+
+#nav-item-container {
+    margin-top: 350px;
+    position: fixed;
+    width: 170px;
+    color: #efebce
+    
+}
+
+#nav-banner-row {
+    position: fixed;
+    margin-left: 70px;
+}

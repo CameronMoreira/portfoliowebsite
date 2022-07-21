@@ -1,0 +1,136 @@
+.profile-pic {
+    width: 350px;
+    height: 350px;
+    border-radius: 500px;
+    margin-top: 70px;
+
+
+    box-shadow: rgba(240, 46, 170, 0.4) 2px 5px, rgba(240, 46, 170, 0.3) 10px 5px, rgba(240, 46, 170, 0.2) 15px 5px, rgba(240, 46, 170, 0.1) 20px 5px, rgba(240, 46, 170, 0.05) 25px 5px;
+}
+
+#h2-title {
+  font-size: 22px;
+  text-align: left;
+}
+#h1-name {
+  margin-top: 5px;
+  margin-bottom: 15px;
+  text-align: left;
+}
+#b-text {
+  color: red;
+}
+#web-developer-description {
+  margin-bottom: 25px;
+  font-size: 18px;
+  text-align: left;
+}
+.linkedIn-logo {
+    width: 45px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+.github-logo {
+    width: 45px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+.indeed-logo {
+    width: 45px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+#profile-pic-col {
+ 
+    text-align: center;
+    padding: 10px;
+}
+
+#profile-info-col {
+    margin-top: 100px;
+    text-align: center;
+    padding: 10px;
+}
+#resume-download-btn {
+  text-decoration: none;
+  font-size: 15px;
+  color: #efebce;
+  background-color: red;  
+}
+#home-container {
+  position: relative;
+  left: 100px;
+  padding-bottom: 40px;
+  background-color: #efebce;
+  max-width: 75%;
+  margin-right: 300px;
+  margin-left: auto;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 50px;
+    /* box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset; */
+    margin-bottom: 400px;
+    margin-top: 260px;
+}
+
+
+.button-50 {
+    background-color: #000;
+    background-image: none;
+    border: 1px solid #000;
+    border-radius: 4px;
+    box-shadow: #fff 4px 4px 0 0,#000 4px 4px 0 1px;
+    color: #fff;
+    width: 120px;
+    cursor: pointer;
+    display: inline-block;
+    font-family: ITCAvantGardeStd-Bk,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 10px;
+    overflow: visible;
+    touch-action: manipulation;
+  }
+  
+
+.button-44 {
+  background: #e62143;
+  border-radius: 11px;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  font-family: Mija,-apple-system,BlinkMacSystemFont,Roboto,"Roboto Slab","Droid Serif","Segoe UI",system-ui,Arial,sans-serif;
+  font-size: 1.15em;
+  font-weight: 700;
+  justify-content: center;
+  line-height: 33.4929px;
+  padding: .8em 1em;
+  text-align: center;
+  text-decoration: none;
+  text-decoration-skip-ink: auto;
+  text-shadow: rgba(0, 0, 0, .3) 1px 1px 1px;
+  text-underline-offset: 1px;
+  transition: all .2s ease-in-out;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 100%;
+  word-break: break-word;
+  border: 0;
+}
+
+.button-44:active,
+.button-44:focus {
+  border-bottom-style: none;
+  border-color: #dadada;
+  box-shadow: rgba(0, 0, 0, .3) 0 3px 3px inset;
+  outline: 0;
+}
+
+.button-44:hover {
+  border-bottom-style: none;
+  border-color: #dadada;
+}
